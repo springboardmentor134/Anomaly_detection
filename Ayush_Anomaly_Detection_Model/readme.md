@@ -61,5 +61,5 @@ An alternative approach using Local Outlier Factor (LOF) is explored for anomaly
 The Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm is used for anomaly detection.
 
 ### Contact
-Author: ** Ayush **
-Email: ** ayush092003@gmail.com **
+Author:  **Ayush** 
+Email: **ayush092003@gmail.com**
