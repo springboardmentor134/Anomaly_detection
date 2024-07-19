@@ -68,5 +68,4 @@ This project focuses on detecting anomalies in datasets using various machine le
    
    The notebook includes sections for visualizing the detected anomalies using various plotting libraries.
 
-## Project Structure
 
